@@ -2,6 +2,8 @@
 
 Kröte is a minimal ICE40HX4K FPGA development board with five Digilent Pmod™ compatible sockets.
 
+![Krote FPGA Board](https://github.com/machdyne/krote/blob/c6a8ba8a467bc0d9354aeab5d3733213635094be/krote.png)
+
 This repo contains schematics, pinouts and example gateware.
 
 Find more information on the [Kröte product page](https://machdyne.com/product/krote-fpga-board/).
